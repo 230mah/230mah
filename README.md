@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou a Marília 👋</h1>
+<h1 align="center">Olá! Sou a Marília 👋</h1>
 
 <p align="center">
   📊 Transformando dados em insights valiosos <br>
